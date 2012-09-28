@@ -254,7 +254,7 @@ void GLWidget::LoadLST( std::string filepath )
 
 
 
-   // cout << "sss" << listIndex << endl;
+    cout << "43" << listIndex << endl;
    // cout << "sss" << filepath << endl;
     if( skeleton != NULL )
         delete skeleton;
