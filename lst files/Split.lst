@@ -1,0 +1,14 @@
+LST 0.1
+
+SB()
+	RotRel3f(0, 0, 1, 0)
+	RotRel3f(-0.0410867, 0, 0, 1)
+	Cylinder(3, 3, 156.787)
+	MovRel3f(0, 156.787, 0)
+	RotRel3f(-0.23288, 0, 0, 1)
+	Cylinder(3, 3, 156.53)
+	MovRel3f(0, 156.53, 0)
+	RotRel3f(0.0456128, 0, 0, 1)
+	Cylinder(3, 3, 0.403503)
+	MovRel3f(0, 0.403503, 0)
+EB()

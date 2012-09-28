@@ -1,0 +1,31 @@
+# XSI Wavefront OBJ Export v3.0
+# File Created: Mon Sep 17 04:09:24 2012
+# XSI Version: 10.0.422.0
+o grid
+# Hierarchy (from self to top father)
+g grid
+
+#begin 4 vertices
+v -4.000000 0.000000 -4.000000
+v -4.000000 0.000000 4.000000
+v 4.000000 0.000000 -4.000000
+v 4.000000 0.000000 4.000000
+#end 4 vertices
+
+#begin 4 normals
+vn 0.000000 1.000000 0.000000
+vn 0.000000 1.000000 0.000000
+vn 0.000000 1.000000 0.000000
+vn 0.000000 1.000000 0.000000
+#end 4 vertex normals
+
+#begin texture vertices
+vt 0.000000 0.000000 0.000000
+vt 1.000000 0.000000 0.000000
+vt 0.000000 1.000000 0.000000
+vt 1.000000 1.000000 0.000000
+#end 4 texture vertices
+
+#begin 1 faces
+f 1/1/1 2/2/2 4/4/3 3/3/4 
+#end 1 faces
